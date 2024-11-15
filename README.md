@@ -10,6 +10,7 @@ Programming Languages:
 - JavaScript
 - HTML
 - CSS
+- TypeScript
 - PHP
 - SQL
 - Java
